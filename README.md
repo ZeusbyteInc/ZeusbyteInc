@@ -1,4 +1,4 @@
-<p align="center"><img src="banner.png" alt="Zeusbyte Inc. — Gaming Platform Infrastructure" width="832"></p>
+<p align="center"><img src="zeusbyte-banner.png" alt="Zeusbyte Inc. — Gaming Platform Infrastructure" width="832"></p>
 
 Independent developer of gaming platform infrastructure.
 
