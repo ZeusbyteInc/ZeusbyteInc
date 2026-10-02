@@ -1,6 +1,6 @@
 <p align="center"><img src="banner.png" alt="Zeusbyte Inc. — Gaming Platform Infrastructure" width="832"></p>
 
-Independent developer of gaming platform infrastructure.
+Empowering the people through well made software.
 
 ## Projects
 
